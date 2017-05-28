@@ -1,0 +1,5 @@
+﻿  Source.c
+g:\esogu\esogu projeler\blackjack\black jack\source.c(316): warning C4715: 'cardtype': not all control paths return a value
+g:\esogu\esogu projeler\blackjack\black jack\source.c(460): warning C4715: 'cardface': not all control paths return a value
+  Black Jack.vcxproj -> G:\ESOGU\ESOGU PROJELER\BlackJack\Debug\Black Jack.exe
+  Black Jack.vcxproj -> G:\ESOGU\ESOGU PROJELER\BlackJack\Debug\Black Jack.pdb (Full PDB)
